@@ -1,12 +1,16 @@
-# Taller Git vbeta
-
-## 28-08-23 
-
-- CT [ADDED] SE AGREGO EL CHANGLOG 
+# ChangeLogs
 
 20230825
+Se agregan cambios importantes
+
+20230825
+
 RG Se modifica el log
 
 20230825
 AOC 
 [UPDATED] Cambio en log
+
+Se modifica el log
+
+
